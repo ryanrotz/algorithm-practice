@@ -24,3 +24,6 @@ function binarySearch(arr, num) {
 }
 
 console.log(binarySearch(myArr, 9));
+
+// this is O(log(n)) Logarithmic Runtime. Also called "Big O of log n". This is fast!
+// resources grow to the inverse of exponential growth
